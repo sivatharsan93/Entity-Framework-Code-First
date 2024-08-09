@@ -1,0 +1,12 @@
+C:\Users\Siva\source\repos\StudentDatabaseApp\StudentDatabaseApp\bin\Debug\StudentDatabaseApp.exe.config
+C:\Users\Siva\source\repos\StudentDatabaseApp\StudentDatabaseApp\bin\Debug\StudentDatabaseApp.exe
+C:\Users\Siva\source\repos\StudentDatabaseApp\StudentDatabaseApp\bin\Debug\StudentDatabaseApp.pdb
+C:\Users\Siva\source\repos\StudentDatabaseApp\StudentDatabaseApp\bin\Debug\EntityFramework.dll
+C:\Users\Siva\source\repos\StudentDatabaseApp\StudentDatabaseApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Siva\source\repos\StudentDatabaseApp\StudentDatabaseApp\bin\Debug\EntityFramework.xml
+C:\Users\Siva\source\repos\StudentDatabaseApp\StudentDatabaseApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Siva\source\repos\StudentDatabaseApp\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.csprojAssemblyReference.cache
+C:\Users\Siva\source\repos\StudentDatabaseApp\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.csproj.CoreCompileInputs.cache
+C:\Users\Siva\source\repos\StudentDatabaseApp\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.csproj.CopyComplete
+C:\Users\Siva\source\repos\StudentDatabaseApp\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.exe
+C:\Users\Siva\source\repos\StudentDatabaseApp\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.pdb
